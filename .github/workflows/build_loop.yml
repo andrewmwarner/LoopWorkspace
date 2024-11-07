@@ -285,8 +285,7 @@ jobs:
           dexcom_upload_readings \
           meal_days no_auth \
           profiles \
-          basal_lock
-                    
+          basal_lock                    
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
           
